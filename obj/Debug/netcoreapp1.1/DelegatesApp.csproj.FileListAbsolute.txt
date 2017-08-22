@@ -1,0 +1,9 @@
+C:\david\delegates\DelegatesApp\DelegatesApp\bin\Debug\netcoreapp1.1\DelegatesApp.deps.json
+C:\david\delegates\DelegatesApp\DelegatesApp\bin\Debug\netcoreapp1.1\DelegatesApp.runtimeconfig.json
+C:\david\delegates\DelegatesApp\DelegatesApp\bin\Debug\netcoreapp1.1\DelegatesApp.runtimeconfig.dev.json
+C:\david\delegates\DelegatesApp\DelegatesApp\bin\Debug\netcoreapp1.1\DelegatesApp.dll
+C:\david\delegates\DelegatesApp\DelegatesApp\bin\Debug\netcoreapp1.1\DelegatesApp.pdb
+C:\david\delegates\DelegatesApp\DelegatesApp\obj\Debug\netcoreapp1.1\DelegatesApp.csprojResolveAssemblyReference.cache
+C:\david\delegates\DelegatesApp\DelegatesApp\obj\Debug\netcoreapp1.1\DelegatesApp.AssemblyInfo.cs
+C:\david\delegates\DelegatesApp\DelegatesApp\obj\Debug\netcoreapp1.1\DelegatesApp.dll
+C:\david\delegates\DelegatesApp\DelegatesApp\obj\Debug\netcoreapp1.1\DelegatesApp.pdb
