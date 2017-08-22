@@ -10,8 +10,14 @@ namespace DelegatesApp
             var filters = new PhotoFilters();
             PhotoProcessor.PhotoFilterHandler filterHandler = filters.ApplyBrightness;
             filterHandler += filters.ApplyContrast;
+            filterHandler += RemoveRedEyeFilter;
 
             processor.Process("photo.jpg", filterHandler);
+        }
+
+        static void RemoveRedEyeFilter(Photo photo)
+        {
+            Console.WriteLine("Apply remove red eye");
         }
     }
 }
